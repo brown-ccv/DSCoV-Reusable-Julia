@@ -71,7 +71,7 @@ Some options
 
 -   Use `Pkg.generate` for a bare-bones package structure
 -   Use [PkgTemplates.jl](https://github.com/JuliaCI/PkgTemplates.jl) for more features (Readme, License, Documentation, test suite, CI and more)
--   Clone another bare-bones repo and customize to your needs ([Example.jl](https://github.com/JuliaLang/Example.jl), [MyAwesomePackage.jl](https://github.com/sylvaticus/MyAwesomePackage.jl))
+-   Clone some base repo and customize to your needs ([Example.jl](https://github.com/JuliaLang/Example.jl), [MyAwesomePackage.jl](https://github.com/sylvaticus/MyAwesomePackage.jl))
 
 For the rest of the workshop we'll use `generate` from the Julia package manager.
 
