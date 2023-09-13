@@ -101,7 +101,7 @@ For the rest of the workshop we'll use `generate` from the Julia package manager
 
     using Example: domath # added this dep
 
-    fact() = println("FYI, 2 + 5 = \$(domath(2))") # added this new feature
+    fact() = println("FYI, 2 + 5 = $(domath(2))") # added this new feature
 
     export fact
 
