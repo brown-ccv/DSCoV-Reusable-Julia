@@ -22,7 +22,8 @@ This is a very common problem in the scientific research community. Today's work
 
 [Reusable code](https://en.wikipedia.org/wiki/Reusability) is code that is easy to distribute and use (correctly and consistently).
 
-You'll need Git, VS Code (recommended) with the Julia extension and Julia (naturally).
+> [!NOTE]
+> If you'd like to follow along with the rest of the discussion, you'll need Git, a text editor or IDE (VS Code recommended with the Julia extension) and Julia (naturally).
 
 To write reusable Julia code we need to understand how to *manage dependencies* in Julia.
 
