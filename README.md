@@ -29,7 +29,7 @@ To write reusable Julia code we need to understand how to *manage dependencies* 
 
 ## Managing Dependencies
 
-A dependency (dep) is code other people wrote and we are using in project.
+A dependency (dep) is code other people (even ourselves) wrote and we are using in a project.
 
 Let's add some deps to our base Julia installation using Julia's Package Manager.
 
