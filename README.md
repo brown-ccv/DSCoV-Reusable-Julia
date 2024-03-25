@@ -38,10 +38,10 @@ Let's add some deps to our base Julia installation using Julia's Package Manager
     ``` julia
     $ julia
     julia> # get to pkg mode with `]`
-    (@v1.9) pkg> add Example StaticArrays
+    (@v1.9) pkg> add Example StaticArrays # add the `Example` and `StaticArrays` packages
     ```
 
-2.  Look at the deps in your base Julia
+2.  Look at the deps in your base Julia with the `status` or `st` command
 
     ``` julia
     (@v1.9) pkg> status
